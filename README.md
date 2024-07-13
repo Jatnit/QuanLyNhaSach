@@ -1,4 +1,4 @@
-# Đồ án lập trình App C#
+# Đồ án lập trình App C# (1 người)
 <h3>Các ngôn ngữ sử dụng: C#, T-SQL</h3>
 <h3>Phần mềm hỗ trợ giao diện: Windows Forms App</h3>
 <h3>Các chức năng:</h3>
